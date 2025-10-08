@@ -1,0 +1,52 @@
+# Robots.txt para Hoteles de Cine
+# Generado automáticamente el 2025-10-08 09:22:09
+# Sitio web: https://p4blo4p.github.io/hoteles-booking-web-pages
+
+# Directivas para todos los bots
+User-agent: *
+Allow: /
+
+# === DIRECTORIOS PERMITIDOS ===
+# Páginas de hoteles
+Allow: /hotel/
+
+# Recursos estáticos
+Allow: /static/
+Allow: /css/
+Allow: /js/
+Allow: /images/
+
+# === TIPOS DE ARCHIVOS PERMITIDOS ===
+# Páginas HTML
+Allow: /index.html
+Allow: /*.html
+
+# Hojas de estilo y scripts
+Allow: /*.css
+Allow: /*.js
+
+# Imágenes
+Allow: /*.jpg
+Allow: /*.jpeg
+Allow: /*.png
+Allow: /*.webp
+Allow: /*.gif
+Allow: /*.svg
+
+# === CONFIGURACIONES ESPECÍFICAS POR BOT ===
+
+# Google Bot
+User-agent: Googlebot
+Allow: /
+Crawl-delay: 1
+
+# Bing Bot
+User-agent: Bingbot
+Allow: /
+Crawl-delay: 2
+
+# === CRAWL DELAY GENERAL ===
+Crawl-delay: 1
+
+# === SITEMAP ===
+Sitemap: https://p4blo4p.github.io/hoteles-booking-web-pages/sitemap.xml

@@ -1,0 +1,552 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+    
+    <!-- Página principal -->
+    <url>
+        <loc>https://p4blo4p.github.io/hoteles-booking-web-pages/</loc>
+        <lastmod>2025-10-08</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+    
+    <!-- Páginas de hoteles -->
+
+    <url>
+        <loc>https://p4blo4p.github.io/hoteles-booking-web-pages/hotel/four-seasons-bali/</loc>
+        <lastmod>2025-10-08</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+        
+        <!-- Imágenes del hotel para SEO -->
+        
+            
+        <image:image>
+            <image:loc>https://p4blo4p.github.io/hoteles-booking-web-pages/static/images/hotels/four-seasons-bali/four-seasons-bali_hotel.webp</image:loc>
+            <image:caption>Four Seasons Resort Bali at Sayan - Imagen principal</image:caption>
+            <image:title>Four Seasons Resort Bali at Sayan</image:title>
+        </image:image>
+            
+            
+            
+                
+        <image:image>
+            <image:loc>https://p4blo4p.github.io/hoteles-booking-web-pages/static/images/hotels/four-seasons-bali/four-seasons-bali_pelicula_1.webp</image:loc>
+            <image:caption>Four Seasons Resort Bali at Sayan - Escena de Eat Pray Love</image:caption>
+            <image:title>Four Seasons Resort Bali at Sayan en Eat Pray Love</image:title>
+        </image:image>
+                
+            
+            
+            
+                
+        <image:image>
+            <image:loc>https://p4blo4p.github.io/hoteles-booking-web-pages/static/images/hotels/four-seasons-bali/four-seasons-bali_galeria_1.webp</image:loc>
+            <image:caption>Four Seasons Resort Bali at Sayan - Galería</image:caption>
+            <image:title>Four Seasons Resort Bali at Sayan</image:title>
+        </image:image>
+                
+        <image:image>
+            <image:loc>https://p4blo4p.github.io/hoteles-booking-web-pages/static/images/hotels/four-seasons-bali/four-seasons-bali_galeria_2.webp</image:loc>
+            <image:caption>Four Seasons Resort Bali at Sayan - Galería</image:caption>
+            <image:title>Four Seasons Resort Bali at Sayan</image:title>
+        </image:image>
+                
+        <image:image>
+            <image:loc>https://p4blo4p.github.io/hoteles-booking-web-pages/static/images/hotels/four-seasons-bali/four-seasons-bali_galeria_3.webp</image:loc>
+            <image:caption>Four Seasons Resort Bali at Sayan - Galería</image:caption>
+            <image:title>Four Seasons Resort Bali at Sayan</image:title>
+        </image:image>
+                
+            
+        
+    </url>
+
+    <url>
+        <loc>https://p4blo4p.github.io/hoteles-booking-web-pages/hotel/grand-hotel-excelsior/</loc>
+        <lastmod>2025-10-08</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+        
+        <!-- Imágenes del hotel para SEO -->
+        
+            
+        <image:image>
+            <image:loc>https://p4blo4p.github.io/hoteles-booking-web-pages/static/images/hotels/grand-hotel-excelsior/grand-hotel-excelsior_hotel.webp</image:loc>
+            <image:caption>Grand Hotel Excelsior Vittoria - Imagen principal</image:caption>
+            <image:title>Grand Hotel Excelsior Vittoria</image:title>
+        </image:image>
+            
+            
+            
+                
+        <image:image>
+            <image:loc>https://p4blo4p.github.io/hoteles-booking-web-pages/static/images/hotels/grand-hotel-excelsior/grand-hotel-excelsior_pelicula_1.webp</image:loc>
+            <image:caption>Grand Hotel Excelsior Vittoria - Escena de El Padrino</image:caption>
+            <image:title>Grand Hotel Excelsior Vittoria en El Padrino</image:title>
+        </image:image>
+                
+        <image:image>
+            <image:loc>https://p4blo4p.github.io/hoteles-booking-web-pages/static/images/hotels/grand-hotel-excelsior/grand-hotel-excelsior_pelicula_2.webp</image:loc>
+            <image:caption>Grand Hotel Excelsior Vittoria - Escena de El Padrino</image:caption>
+            <image:title>Grand Hotel Excelsior Vittoria en El Padrino</image:title>
+        </image:image>
+                
+            
+            
+            
+                
+        <image:image>
+            <image:loc>https://p4blo4p.github.io/hoteles-booking-web-pages/static/images/hotels/grand-hotel-excelsior/grand-hotel-excelsior_galeria_1.webp</image:loc>
+            <image:caption>Grand Hotel Excelsior Vittoria - Galería</image:caption>
+            <image:title>Grand Hotel Excelsior Vittoria</image:title>
+        </image:image>
+                
+        <image:image>
+            <image:loc>https://p4blo4p.github.io/hoteles-booking-web-pages/static/images/hotels/grand-hotel-excelsior/grand-hotel-excelsior_galeria_2.webp</image:loc>
+            <image:caption>Grand Hotel Excelsior Vittoria - Galería</image:caption>
+            <image:title>Grand Hotel Excelsior Vittoria</image:title>
+        </image:image>
+                
+        <image:image>
+            <image:loc>https://p4blo4p.github.io/hoteles-booking-web-pages/static/images/hotels/grand-hotel-excelsior/grand-hotel-excelsior_galeria_3.webp</image:loc>
+            <image:caption>Grand Hotel Excelsior Vittoria - Galería</image:caption>
+            <image:title>Grand Hotel Excelsior Vittoria</image:title>
+        </image:image>
+                
+            
+        
+    </url>
+
+    <url>
+        <loc>https://p4blo4p.github.io/hoteles-booking-web-pages/hotel/st-regis-mexico/</loc>
+        <lastmod>2025-10-08</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+        
+        <!-- Imágenes del hotel para SEO -->
+        
+            
+        <image:image>
+            <image:loc>https://p4blo4p.github.io/hoteles-booking-web-pages/static/images/hotels/st-regis-mexico/st-regis-mexico_hotel.webp</image:loc>
+            <image:caption>The St. Regis Mexico City - Imagen principal</image:caption>
+            <image:title>The St. Regis Mexico City</image:title>
+        </image:image>
+            
+            
+            
+                
+        <image:image>
+            <image:loc>https://p4blo4p.github.io/hoteles-booking-web-pages/static/images/hotels/st-regis-mexico/st-regis-mexico_pelicula_1.webp</image:loc>
+            <image:caption>The St. Regis Mexico City - Escena de Spectre</image:caption>
+            <image:title>The St. Regis Mexico City en Spectre</image:title>
+        </image:image>
+                
+        <image:image>
+            <image:loc>https://p4blo4p.github.io/hoteles-booking-web-pages/static/images/hotels/st-regis-mexico/st-regis-mexico_pelicula_2.webp</image:loc>
+            <image:caption>The St. Regis Mexico City - Escena de Spectre</image:caption>
+            <image:title>The St. Regis Mexico City en Spectre</image:title>
+        </image:image>
+                
+            
+            
+            
+                
+        <image:image>
+            <image:loc>https://p4blo4p.github.io/hoteles-booking-web-pages/static/images/hotels/st-regis-mexico/st-regis-mexico_galeria_1.webp</image:loc>
+            <image:caption>The St. Regis Mexico City - Galería</image:caption>
+            <image:title>The St. Regis Mexico City</image:title>
+        </image:image>
+                
+        <image:image>
+            <image:loc>https://p4blo4p.github.io/hoteles-booking-web-pages/static/images/hotels/st-regis-mexico/st-regis-mexico_galeria_2.webp</image:loc>
+            <image:caption>The St. Regis Mexico City - Galería</image:caption>
+            <image:title>The St. Regis Mexico City</image:title>
+        </image:image>
+                
+        <image:image>
+            <image:loc>https://p4blo4p.github.io/hoteles-booking-web-pages/static/images/hotels/st-regis-mexico/st-regis-mexico_galeria_3.webp</image:loc>
+            <image:caption>The St. Regis Mexico City - Galería</image:caption>
+            <image:title>The St. Regis Mexico City</image:title>
+        </image:image>
+                
+            
+        
+    </url>
+
+    <url>
+        <loc>https://p4blo4p.github.io/hoteles-booking-web-pages/hotel/ashford-castle/</loc>
+        <lastmod>2025-10-08</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+        
+        <!-- Imágenes del hotel para SEO -->
+        
+            
+        <image:image>
+            <image:loc>https://p4blo4p.github.io/hoteles-booking-web-pages/static/images/hotels/ashford-castle/ashford-castle_hotel.webp</image:loc>
+            <image:caption>Ashford Castle - Imagen principal</image:caption>
+            <image:title>Ashford Castle</image:title>
+        </image:image>
+            
+            
+            
+                
+        <image:image>
+            <image:loc>https://p4blo4p.github.io/hoteles-booking-web-pages/static/images/hotels/ashford-castle/ashford-castle_pelicula_1.webp</image:loc>
+            <image:caption>Ashford Castle - Escena de El Hombre Tranquilo</image:caption>
+            <image:title>Ashford Castle en El Hombre Tranquilo</image:title>
+        </image:image>
+                
+        <image:image>
+            <image:loc>https://p4blo4p.github.io/hoteles-booking-web-pages/static/images/hotels/ashford-castle/ashford-castle_pelicula_2.webp</image:loc>
+            <image:caption>Ashford Castle - Escena de El Hombre Tranquilo</image:caption>
+            <image:title>Ashford Castle en El Hombre Tranquilo</image:title>
+        </image:image>
+                
+            
+            
+            
+                
+        <image:image>
+            <image:loc>https://p4blo4p.github.io/hoteles-booking-web-pages/static/images/hotels/ashford-castle/ashford-castle_galeria_1.webp</image:loc>
+            <image:caption>Ashford Castle - Galería</image:caption>
+            <image:title>Ashford Castle</image:title>
+        </image:image>
+                
+        <image:image>
+            <image:loc>https://p4blo4p.github.io/hoteles-booking-web-pages/static/images/hotels/ashford-castle/ashford-castle_galeria_2.webp</image:loc>
+            <image:caption>Ashford Castle - Galería</image:caption>
+            <image:title>Ashford Castle</image:title>
+        </image:image>
+                
+        <image:image>
+            <image:loc>https://p4blo4p.github.io/hoteles-booking-web-pages/static/images/hotels/ashford-castle/ashford-castle_galeria_3.webp</image:loc>
+            <image:caption>Ashford Castle - Galería</image:caption>
+            <image:title>Ashford Castle</image:title>
+        </image:image>
+                
+            
+        
+    </url>
+
+    <url>
+        <loc>https://p4blo4p.github.io/hoteles-booking-web-pages/hotel/taj-lake-palace/</loc>
+        <lastmod>2025-10-08</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+        
+        <!-- Imágenes del hotel para SEO -->
+        
+            
+        <image:image>
+            <image:loc>https://p4blo4p.github.io/hoteles-booking-web-pages/static/images/hotels/taj-lake-palace/taj-lake-palace_hotel.webp</image:loc>
+            <image:caption>Taj Lake Palace - Imagen principal</image:caption>
+            <image:title>Taj Lake Palace</image:title>
+        </image:image>
+            
+            
+            
+                
+        <image:image>
+            <image:loc>https://p4blo4p.github.io/hoteles-booking-web-pages/static/images/hotels/taj-lake-palace/taj-lake-palace_pelicula_1.webp</image:loc>
+            <image:caption>Taj Lake Palace - Escena de Octopussy</image:caption>
+            <image:title>Taj Lake Palace en Octopussy</image:title>
+        </image:image>
+                
+        <image:image>
+            <image:loc>https://p4blo4p.github.io/hoteles-booking-web-pages/static/images/hotels/taj-lake-palace/taj-lake-palace_pelicula_2.webp</image:loc>
+            <image:caption>Taj Lake Palace - Escena de Octopussy</image:caption>
+            <image:title>Taj Lake Palace en Octopussy</image:title>
+        </image:image>
+                
+            
+            
+            
+                
+        <image:image>
+            <image:loc>https://p4blo4p.github.io/hoteles-booking-web-pages/static/images/hotels/taj-lake-palace/taj-lake-palace_galeria_1.webp</image:loc>
+            <image:caption>Taj Lake Palace - Galería</image:caption>
+            <image:title>Taj Lake Palace</image:title>
+        </image:image>
+                
+        <image:image>
+            <image:loc>https://p4blo4p.github.io/hoteles-booking-web-pages/static/images/hotels/taj-lake-palace/taj-lake-palace_galeria_2.webp</image:loc>
+            <image:caption>Taj Lake Palace - Galería</image:caption>
+            <image:title>Taj Lake Palace</image:title>
+        </image:image>
+                
+        <image:image>
+            <image:loc>https://p4blo4p.github.io/hoteles-booking-web-pages/static/images/hotels/taj-lake-palace/taj-lake-palace_galeria_3.webp</image:loc>
+            <image:caption>Taj Lake Palace - Galería</image:caption>
+            <image:title>Taj Lake Palace</image:title>
+        </image:image>
+                
+            
+        
+    </url>
+
+    <url>
+        <loc>https://p4blo4p.github.io/hoteles-booking-web-pages/hotel/beverly-hills/</loc>
+        <lastmod>2025-10-08</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+        
+        <!-- Imágenes del hotel para SEO -->
+        
+            
+        <image:image>
+            <image:loc>https://p4blo4p.github.io/hoteles-booking-web-pages/https://cf.bstatic.com/xdata/images/hotel/max1024x768/325188952.jpg?k=da945dbf1adaf47bbf9152e515bda19fed5de3abad5c53a137b01db68b991b12&o=</image:loc>
+            <image:caption>The Beverly Hills Hotel - Imagen principal</image:caption>
+            <image:title>The Beverly Hills Hotel</image:title>
+        </image:image>
+            
+            
+            
+                
+        <image:image>
+            <image:loc>https://p4blo4p.github.io/hoteles-booking-web-pages/static/images/hotels/hotel-beverly-hills/hotel-beverly-hills_pelicula_1.webp</image:loc>
+            <image:caption>The Beverly Hills Hotel - Escena de Pretty Woman</image:caption>
+            <image:title>The Beverly Hills Hotel en Pretty Woman</image:title>
+        </image:image>
+                
+        <image:image>
+            <image:loc>https://p4blo4p.github.io/hoteles-booking-web-pages/static/images/hotels/hotel-beverly-hills/hotel-beverly-hills_pelicula_2.webp</image:loc>
+            <image:caption>The Beverly Hills Hotel - Escena de Pretty Woman</image:caption>
+            <image:title>The Beverly Hills Hotel en Pretty Woman</image:title>
+        </image:image>
+                
+            
+            
+            
+                
+        <image:image>
+            <image:loc>https://p4blo4p.github.io/hoteles-booking-web-pages/static/images/hotels/hotel-beverly-hills/hotel-beverly-hills_galeria_1.webp</image:loc>
+            <image:caption>The Beverly Hills Hotel - Galería</image:caption>
+            <image:title>The Beverly Hills Hotel</image:title>
+        </image:image>
+                
+        <image:image>
+            <image:loc>https://p4blo4p.github.io/hoteles-booking-web-pages/static/images/hotels/hotel-beverly-hills/hotel-beverly-hills_galeria_2.webp</image:loc>
+            <image:caption>The Beverly Hills Hotel - Galería</image:caption>
+            <image:title>The Beverly Hills Hotel</image:title>
+        </image:image>
+                
+        <image:image>
+            <image:loc>https://p4blo4p.github.io/hoteles-booking-web-pages/static/images/hotels/hotel-beverly-hills/hotel-beverly-hills_galeria_3.webp</image:loc>
+            <image:caption>The Beverly Hills Hotel - Galería</image:caption>
+            <image:title>The Beverly Hills Hotel</image:title>
+        </image:image>
+                
+            
+        
+    </url>
+
+    <url>
+        <loc>https://p4blo4p.github.io/hoteles-booking-web-pages/hotel/gritti-palace/</loc>
+        <lastmod>2025-10-08</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+        
+        <!-- Imágenes del hotel para SEO -->
+        
+            
+        <image:image>
+            <image:loc>https://p4blo4p.github.io/hoteles-booking-web-pages/static/images/hotels/gritti-palace/gritti-palace_hotel.webp</image:loc>
+            <image:caption>The Gritti Palace - Imagen principal</image:caption>
+            <image:title>The Gritti Palace</image:title>
+        </image:image>
+            
+            
+            
+                
+        <image:image>
+            <image:loc>https://p4blo4p.github.io/hoteles-booking-web-pages/static/images/hotels/gritti-palace/gritti-palace_pelicula_1.webp</image:loc>
+            <image:caption>The Gritti Palace - Escena de Casino Royale</image:caption>
+            <image:title>The Gritti Palace en Casino Royale</image:title>
+        </image:image>
+                
+            
+            
+            
+                
+        <image:image>
+            <image:loc>https://p4blo4p.github.io/hoteles-booking-web-pages/static/images/hotels/gritti-palace/gritti-palace_galeria_1.webp</image:loc>
+            <image:caption>The Gritti Palace - Galería</image:caption>
+            <image:title>The Gritti Palace</image:title>
+        </image:image>
+                
+        <image:image>
+            <image:loc>https://p4blo4p.github.io/hoteles-booking-web-pages/static/images/hotels/gritti-palace/gritti-palace_galeria_2.webp</image:loc>
+            <image:caption>The Gritti Palace - Galería</image:caption>
+            <image:title>The Gritti Palace</image:title>
+        </image:image>
+                
+        <image:image>
+            <image:loc>https://p4blo4p.github.io/hoteles-booking-web-pages/static/images/hotels/gritti-palace/gritti-palace_galeria_3.webp</image:loc>
+            <image:caption>The Gritti Palace - Galería</image:caption>
+            <image:title>The Gritti Palace</image:title>
+        </image:image>
+                
+            
+        
+    </url>
+
+    <url>
+        <loc>https://p4blo4p.github.io/hoteles-booking-web-pages/hotel/plaza-athenee/</loc>
+        <lastmod>2025-10-08</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+        
+        <!-- Imágenes del hotel para SEO -->
+        
+            
+        <image:image>
+            <image:loc>https://p4blo4p.github.io/hoteles-booking-web-pages/static/images/hotels/plaza-athenee/plaza-athenee_hotel.webp</image:loc>
+            <image:caption>Hôtel Plaza Athénée - Imagen principal</image:caption>
+            <image:title>Hôtel Plaza Athénée</image:title>
+        </image:image>
+            
+            
+            
+                
+        <image:image>
+            <image:loc>https://p4blo4p.github.io/hoteles-booking-web-pages/static/images/hotels/plaza-athenee/plaza-athenee_pelicula_1.webp</image:loc>
+            <image:caption>Hôtel Plaza Athénée - Escena de El Diablo Viste de Prada</image:caption>
+            <image:title>Hôtel Plaza Athénée en El Diablo Viste de Prada</image:title>
+        </image:image>
+                
+            
+            
+            
+                
+        <image:image>
+            <image:loc>https://p4blo4p.github.io/hoteles-booking-web-pages/static/images/hotels/plaza-athenee/plaza-athenee_galeria_1.webp</image:loc>
+            <image:caption>Hôtel Plaza Athénée - Galería</image:caption>
+            <image:title>Hôtel Plaza Athénée</image:title>
+        </image:image>
+                
+        <image:image>
+            <image:loc>https://p4blo4p.github.io/hoteles-booking-web-pages/static/images/hotels/plaza-athenee/plaza-athenee_galeria_2.webp</image:loc>
+            <image:caption>Hôtel Plaza Athénée - Galería</image:caption>
+            <image:title>Hôtel Plaza Athénée</image:title>
+        </image:image>
+                
+        <image:image>
+            <image:loc>https://p4blo4p.github.io/hoteles-booking-web-pages/static/images/hotels/plaza-athenee/plaza-athenee_galeria_3.webp</image:loc>
+            <image:caption>Hôtel Plaza Athénée - Galería</image:caption>
+            <image:title>Hôtel Plaza Athénée</image:title>
+        </image:image>
+                
+            
+        
+    </url>
+
+    <url>
+        <loc>https://p4blo4p.github.io/hoteles-booking-web-pages/hotel/waldorf-astoria/</loc>
+        <lastmod>2025-10-08</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+        
+        <!-- Imágenes del hotel para SEO -->
+        
+            
+        <image:image>
+            <image:loc>https://p4blo4p.github.io/hoteles-booking-web-pages/static/images/hotels/waldorf-astoria/waldorf-astoria_hotel.webp</image:loc>
+            <image:caption>Waldorf Astoria New York - Imagen principal</image:caption>
+            <image:title>Waldorf Astoria New York</image:title>
+        </image:image>
+            
+            
+            
+                
+        <image:image>
+            <image:loc>https://p4blo4p.github.io/hoteles-booking-web-pages/static/images/hotels/waldorf-astoria/waldorf-astoria_pelicula_1.webp</image:loc>
+            <image:caption>Waldorf Astoria New York - Escena de Desayuno con Diamantes</image:caption>
+            <image:title>Waldorf Astoria New York en Desayuno con Diamantes</image:title>
+        </image:image>
+                
+        <image:image>
+            <image:loc>https://p4blo4p.github.io/hoteles-booking-web-pages/static/images/hotels/waldorf-astoria/waldorf-astoria_pelicula_2.webp</image:loc>
+            <image:caption>Waldorf Astoria New York - Escena de Desayuno con Diamantes</image:caption>
+            <image:title>Waldorf Astoria New York en Desayuno con Diamantes</image:title>
+        </image:image>
+                
+            
+            
+            
+                
+        <image:image>
+            <image:loc>https://p4blo4p.github.io/hoteles-booking-web-pages/static/images/hotels/waldorf-astoria/waldorf-astoria_galeria_1.webp</image:loc>
+            <image:caption>Waldorf Astoria New York - Galería</image:caption>
+            <image:title>Waldorf Astoria New York</image:title>
+        </image:image>
+                
+        <image:image>
+            <image:loc>https://p4blo4p.github.io/hoteles-booking-web-pages/static/images/hotels/waldorf-astoria/waldorf-astoria_galeria_2.webp</image:loc>
+            <image:caption>Waldorf Astoria New York - Galería</image:caption>
+            <image:title>Waldorf Astoria New York</image:title>
+        </image:image>
+                
+        <image:image>
+            <image:loc>https://p4blo4p.github.io/hoteles-booking-web-pages/static/images/hotels/waldorf-astoria/waldorf-astoria_galeria_3.webp</image:loc>
+            <image:caption>Waldorf Astoria New York - Galería</image:caption>
+            <image:title>Waldorf Astoria New York</image:title>
+        </image:image>
+                
+            
+        
+    </url>
+
+    <url>
+        <loc>https://p4blo4p.github.io/hoteles-booking-web-pages/hotel/ritz-paris/</loc>
+        <lastmod>2025-10-08</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+        
+        <!-- Imágenes del hotel para SEO -->
+        
+            
+        <image:image>
+            <image:loc>https://p4blo4p.github.io/hoteles-booking-web-pages/static/images/hotels/ritz-paris/ritz-paris_hotel.webp</image:loc>
+            <image:caption>Ritz Paris - Imagen principal</image:caption>
+            <image:title>Ritz Paris</image:title>
+        </image:image>
+            
+            
+            
+                
+        <image:image>
+            <image:loc>https://p4blo4p.github.io/hoteles-booking-web-pages/static/images/hotels/ritz-paris/ritz-paris_pelicula_1.webp</image:loc>
+            <image:caption>Ritz Paris - Escena de Medianoche en París</image:caption>
+            <image:title>Ritz Paris en Medianoche en París</image:title>
+        </image:image>
+                
+            
+            
+            
+                
+        <image:image>
+            <image:loc>https://p4blo4p.github.io/hoteles-booking-web-pages/static/images/hotels/ritz-paris/ritz-paris_galeria_1.webp</image:loc>
+            <image:caption>Ritz Paris - Galería</image:caption>
+            <image:title>Ritz Paris</image:title>
+        </image:image>
+                
+        <image:image>
+            <image:loc>https://p4blo4p.github.io/hoteles-booking-web-pages/static/images/hotels/ritz-paris/ritz-paris_galeria_2.webp</image:loc>
+            <image:caption>Ritz Paris - Galería</image:caption>
+            <image:title>Ritz Paris</image:title>
+        </image:image>
+                
+        <image:image>
+            <image:loc>https://p4blo4p.github.io/hoteles-booking-web-pages/static/images/hotels/ritz-paris/ritz-paris_galeria_3.webp</image:loc>
+            <image:caption>Ritz Paris - Galería</image:caption>
+            <image:title>Ritz Paris</image:title>
+        </image:image>
+                
+            
+        
+    </url>
+
+    
+</urlset>
